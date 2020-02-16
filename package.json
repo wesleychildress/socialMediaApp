@@ -1,0 +1,26 @@
+{
+  "name": "socialmediaapp",
+  "version": "1.0.0",
+  "description": "Social Media Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleychildress/socialMediaApp.git"
+  },
+  "author": "Wesley Childress",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleychildress/socialMediaApp/issues"
+  },
+  "homepage": "https://github.com/wesleychildress/socialMediaApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
